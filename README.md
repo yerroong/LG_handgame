@@ -6,15 +6,15 @@ React로 구현한 11월 7일(금)에 진행한 간단한 **가위바위보 게�
 ---
 
 ## 📸 프로젝트 미리보기
-><img width="1070" height="667" alt="image" src="https://github.com/user-attachments/assets/c931f08a-6e55-48e4-8fd4-ac80148d9ee0" />
-> <img width="1073" height="671" alt="image" src="https://github.com/user-attachments/assets/d6f580a8-fffe-4502-97db-371078fa64d2" />
-> <img width="1060" height="669" alt="image" src="https://github.com/user-attachments/assets/b5a3e80d-e81e-4020-90f8-4d3101a98a7b" />
+><img width="500"  alt="image" src="https://github.com/user-attachments/assets/c931f08a-6e55-48e4-8fd4-ac80148d9ee0" />
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/d6f580a8-fffe-4502-97db-371078fa64d2" />
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/b5a3e80d-e81e-4020-90f8-4d3101a98a7b" />
 
 
 ---
 
 ## 📁 프로젝트 구조
-├── src/
+```├── src/
 │ ├── assets/
 │ │ ├── question.png # 물음표 이미지
 │ │ ├── rock.png # 바위 이미지
@@ -31,7 +31,7 @@ React로 구현한 11월 7일(금)에 진행한 간단한 **가위바위보 게�
 │ ├── main.jsx # React 진입점
 │ └── index.css # 글로벌 스타일
 └── package.json # 프로젝트 설정 및 의존성
-
+```
 
 ---
 
